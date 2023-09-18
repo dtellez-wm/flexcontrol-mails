@@ -26,7 +26,7 @@
 
   </mj-head>
   <mj-body background-color="#E7E7E7" width="600px">
-    <mj-section full-width="full-width" background-color="#fc0016" padding-bottom="0">
+    <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/Brochure_lojackatt_VF/0.png" background-size="cover" padding-bottom="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" alt="" align="center" width="150px" />
         <mj-text color="#fff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="0px">
