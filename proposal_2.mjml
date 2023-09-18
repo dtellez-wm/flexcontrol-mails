@@ -26,11 +26,12 @@
 
   </mj-head>
   <mj-body background-color="#E7E7E7" width="600px">
-    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+    <mj-section full-width="full-width" background-color="#fc0016" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="https://as2.ftcdn.net/v2/jpg/04/33/20/53/1000_F_433205397_2tZtNSjnrnnxKbIsVm1xHmqBri3sxMLp.jpg" alt="" align="center" width="150px" />
-        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
-          CDMX, MX
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" alt="" align="center" width="150px" />
+        <mj-text color="#fff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="0px">
+          ¡Toma el control total de tu vehículo
+          <br> con AT&T!
           <br />
           <span style="color: #979797; font-weight: normal">-</span>
         </mj-text>
