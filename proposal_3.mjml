@@ -11,7 +11,7 @@
   <mj-body background-color="#F2F2F2">
     <mj-section padding="10px 0 20px 0">
       <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px">Tu seguridad y la de tu vehículo</mj-text>
+        <mj-text align="center" color="#9B9B9B" font-size="11px">TU SEGURIDAD Y LA DE TU VEHICULO</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
@@ -34,7 +34,9 @@
     </mj-section>
     <mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
       <mj-column>
-        <mj-text align="center" font-weight="300" padding="30px 40px 10px 40px" font-size="32px" line-height="40px" color="#fc0016">Tranquilidad y seguridad vehicular al alcance de tus manos.</mj-text>
+        <mj-text align="center" font-weight="300" padding="30px 40px 10px 40px" font-size="32px" line-height="40px" color="#fc0016"
+          >Tranquilidad y seguridad vehicular al alcance de tus manos.</mj-text
+        >
       </mj-column>
     </mj-section>
     <mj-section padding="10px 20px" background-color="#FFFFFF">
@@ -44,14 +46,39 @@
     </mj-section>
     <mj-section padding="0 20px 20px 20px" background-color="#FFFFFF">
       <mj-column width="80%">
-        <mj-text align="center" padding-top="10px" font-weight="500" padding="0px">Tu seguridad y la de tu vehículo son nuestra prioridad. Presentamos una solución innovadora que combina la experiencia de Lo/Jack con la infraestructura tecnológica de AT&T, brindándote control total sobre tus vehículos: gestión, localización y asistencia.</mj-text>
+        <mj-text align="center" padding-top="10px" font-weight="500" padding="0px"
+          >Tu seguridad y la de tu vehículo son nuestra prioridad. Presentamos una solución innovadora que combina la experiencia de Lo/Jack
+          con la infraestructura tecnológica de AT&T, brindándote control total sobre tus vehículos: gestión, localización y
+          asistencia.</mj-text
+        >
       </mj-column>
     </mj-section>
-    <mj-section background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/0.png" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/0.png"
+      vertical-align="middle"
+      background-size="cover"
+      background-repeat="no-repeat"
+    >
       <mj-column width="100%">
         <mj-image src="http://nimus.de/share/tpl-card/lineshadow.png" alt="" align="center" border="none" padding="0px"></mj-image>
-        <mj-text align="center" padding="50px 40px 0 40px" font-weight="300">Accede a informes detallados, recibe notificaciones en tiempo real y asegura tu vehículo con herramientas avanzadas de rastreo. ¿Listo para llevar la protección vehicular al siguiente nivel? Conoce más [Link al sitio web o producto].</mj-text>
-        <mj-button align="center" background-color="#fc0016" color="#FFFFFF" border-radius="2px" href="#" inner-padding="15px 30px" padding-bottom="100px" padding-top="20px">CONTRATA</mj-button>
+        <mj-text align="center" padding="50px 40px 0 40px" font-weight="300"
+          >Accede a informes detallados, recibe notificaciones en tiempo real y asegura tu vehículo con herramientas avanzadas de rastreo.
+          ¿Listo para llevar la protección vehicular al siguiente nivel? Conoce más
+          <span style="font-size: 18px">
+            <a href="https://mjml.io" style="text-decoration: underline; color: #fc0016">AT&T Jack Recuperación </a></span
+          >.</mj-text
+        >
+        <mj-button
+          align="center"
+          background-color="#fc0016"
+          color="#FFFFFF"
+          border-radius="2px"
+          href="#"
+          inner-padding="15px 30px"
+          padding-bottom="100px"
+          padding-top="20px"
+          >CONTRATA</mj-button
+        >
       </mj-column>
     </mj-section>
     <mj-section padding="50px 0 0 0" background-color="#FFFFFF">
@@ -61,7 +88,15 @@
     </mj-section>
     <mj-section padding="10px 0 20px 0">
       <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br />52 Edison Court Suite 259 / East Aidabury / Cambodi<br /> <a href="#" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
+        <mj-text align="center" color="#9B9B9B" font-size="11px"
+          ><a href="#" style="color: #9b9b9b">Unsubscribe</a>
+          <br />
+          <a href="#" style="color: #9b9b9b">Privacy</a>
+          <br />
+
+          Derechos reservados
+          <a href="#" style="color: #9b9b9b; text-decoration: none">Appvant</a></mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
