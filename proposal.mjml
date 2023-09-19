@@ -47,19 +47,19 @@
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #5e6ebf">Gestión Total</span><br /><br />Desarrolando la industria.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Desarrolando la industria.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="http://191n.mj.am/img/191n/1t/hm.png" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #5e6ebf">Máxima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="http://191n.mj.am/img/191n/1t/hl.png" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #5e6ebf">Innovación Continua</span><br /><br />Diseños pensados en ti.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />Diseños pensados en ti.</mj-text
         >
       </mj-column>
     </mj-section>
