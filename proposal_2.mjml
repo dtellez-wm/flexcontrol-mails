@@ -26,10 +26,10 @@
 
   </mj-head>
   <mj-body background-color="#637381" width="600px">
-    <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/Brochure_lojackatt_VF/3.png" background-size="contain" background-position="top" padding-bottom="0">
+    <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/Brochure_lojackatt_VF/3.png" background-size="contain" background-repeat="no-repeat" background-position="top" padding-bottom="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" alt="" align="center" width="150px" />
-        <mj-text color="#fff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="0px">
+        <mj-text color="#fff" font-weight="bold" align="center" text-transform="uppercase" font-size="24px" letter-spacing="1px" padding-top="0px" >
           ¡Toma el control total de tu vehículo
           <br> con AT&T!
           <br />
@@ -45,7 +45,7 @@
     </mj-section>
     <mj-section background-color="#1f2e78">
       <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png" width="250px" alt="" padding="0" href="https://google.com" />
         <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2043.png" width="300px" alt="" padding="0" href="https://google.com" />
       </mj-column>
     </mj-section>
@@ -56,7 +56,7 @@
             Presentando <br> AT&T Jack Recuperación Total:
           </mj-text>
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
-            Revoluciona Tu Gestión de Dispositivos ??
+            Revoluciona Tu Gestión de Dispositivos ????
             <hr>
           </mj-text>
           <mj-text color="#637381" font-size="16px">
@@ -70,23 +70,23 @@
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             <ul>
-              <li style="padding-bottom: 20px"><strong>Innovación:</strong> Sit amet consectetur adipisicing elit.</li>
-              <li style="padding-bottom: 20px"><strong>Seguridad:</strong> Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.</li>
-              <li><strong>Flexibilidad:</strong> In quisquam optio quibusdam fugiat perspiciatis nobis.</li>
+              <li style="padding-bottom: 20px"><strong>Innovación:</strong> Desarrolando la industria.</li>
+              <li style="padding-bottom: 20px"><strong>Seguridad:</strong> Comprometidos con nuestra.</li>
+              <li><strong>Flexibilidad:</strong>Diseños pensados en ti.</li>
             </ul>
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-            Lorem ipsum dolor <a class="text-link" href="https://google.com">sit amet consectetur</a> ¿Deseas tener la tranquilidad de saber dónde está tu vehículo en todo momento? Con nuestra tecnología, puedes acceder a la información de tu vehículo desde cualquier lugar. Delimita zonas específicas para controlarlos, recibe notificaciones sobre tu actividad y, en caso de robo, recupéralos con soporte las 24 horas.
+            ¿Deseas tener la tranquilidad de saber dónde está tu vehículo en todo momento? <a class="text-link" href="https://google.com">Con AT&T Jack Recuperación</a>, puedes acceder a la información de tu vehículo desde cualquier lugar. Delimita zonas específicas para controlarlos, recibe notificaciones sobre tu actividad y, en caso de robo, recupéralos con soporte las 24 horas.
           </mj-text>
           <mj-button background-color="#fc0016" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
             Contactanos ahora
           </mj-button>
           
           <mj-text color="#637381" font-size="16px" padding-top="30px">
-            Lorem ipsum dolor <a class="text-link" href="https://google.com">sit amet consectetur</a> ¡No esperes más! Protege tu vehículo con tecnología líder en rastreo y recuperación. Conoce más
+            ¡No esperes más! Protege tu vehículo con <a class="text-link" href="https://google.com">AT&T Jack Recuperación</a>Conoce más.
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Líderes en rastreo y recuperación.
           </mj-text>
           <mj-button background-color="#fc0016" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
             Centro de experiencia
@@ -109,38 +109,38 @@
       <mj-section background-color="#ffffff" padding="0 15px 0 15px">
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0">
-            Come see us!
+            Visitanos!
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            We're looking forward to meeting you.
+            Esperamos conocerte.
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="50%">
           <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
-            address
+            direccion
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            Austin Convention Center
+            PRIVADA CANAIMA 12
             <br />
-            123 Main Street, 78701
+            TORRE 2 PISO 2 COL. LOMA BONITA TLALNEPANTLA EDO M C.P. 54067
           </mj-text>
         </mj-column>
         <mj-column width="50%">
           <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
-            Hours of Operation
+            Horario de atención
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            Monday, December 20th: 8:00AM - 5:00PM
+            Lunes: 8:00AM - 6:00PM
             <br />
-            Tuesday, December 21st: 8:00AM - 5:00PM
+            Viernes: 8:00AM - 6:00PM
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
-          <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg" alt="" />
+          <mj-image src="" alt="" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -159,13 +159,13 @@
             </mj-social-element>
           </mj-social>
           <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
-            View this email in your browser
+            Ver en el navegador
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events and special offers.
+            Usted está recibiendo este correo electrónico porque se registró en Appvant. (123 Main Street, Austin, TX 78701) y aceptó recibir correos electrónicos nuestros sobre novedades, eventos y ofertas especiales.
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            &copy; Croft's Accountants Inc., All Rights Reserved.
+            &copy; Appvant Inc. Todos los derechos reservados.
           </mj-text>
         </mj-column>
       </mj-section>
