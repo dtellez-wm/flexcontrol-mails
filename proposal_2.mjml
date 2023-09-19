@@ -40,12 +40,13 @@
           <br />
           Tlalnepantla EDO M C.P. 54067
         </mj-text>
-        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" width="600px" alt="" padding="0" href="https://google.com" />
+        
       </mj-column>
     </mj-section>
     <mj-section background-color="#1f2e78">
       <mj-column width="100%">
-        <mj-image src="https://i1.wp.com/businessblog.udacity.com/wp-content/uploads/2019/02/Webinar-Banner.png?fit=1600%2C600&ssl=1" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2043.png" width="300px" alt="" padding="0" href="https://google.com" />
       </mj-column>
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
