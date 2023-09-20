@@ -1,26 +1,25 @@
 <mjml>
   <mj-body background-color="#d7dde5">
     <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="33.33333333333333%" vertical-align="middle">
+      <mj-column width="50%" vertical-align="middle" background-color="green">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
-          alt="OnePage"
+          alt="Logo appvant"
           padding-bottom="0px"
-          padding-top="10px"
+          padding-top="0px"
         ></mj-image>
       </mj-column>
-      <mj-column width="33.33333333333333%" vertical-align="middle">
+      <mj-column width="50%" vertical-align="middle" background-color="blue">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
-          alt="OnePage"
+          alt="Logo de distribuidor autorizado att"
           padding-bottom="0px"
-          padding-top="10px"
+          padding-top="0px"
         ></mj-image>
       </mj-column>
     </mj-section>
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
-      vertical-align="middle"
       background-size="cover"
       full-width="full-width"
       background-repeat="no-repeat"
@@ -43,7 +42,7 @@
         >
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+    <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
@@ -63,7 +62,7 @@
         >
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fc0016" vertical-align="middle" full-width="full-width">
+    <mj-section background-color="#fc0016" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px"
           >Protege tu vehículo con solo $199 mensuales.</mj-text
@@ -83,7 +82,7 @@
         >
       </mj-column>
     </mj-section>
-    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+    <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column width="50%" vertical-align="middle">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
