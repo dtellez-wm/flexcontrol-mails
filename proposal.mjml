@@ -48,7 +48,7 @@
     </mj-section>
     <mj-section>
     <mj-column width="50%">
-    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" full-width="full-width" alt="" padding="0px" href="https://google.com" />
+    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
     </mj-column></mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
