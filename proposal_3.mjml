@@ -34,6 +34,7 @@
     </mj-section>
     <mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
       <mj-column>
+      <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" width="300px" alt="" padding="0" href="https://google.com" />
         <mj-text align="center" font-weight="300" padding="30px 40px 10px 40px" font-size="32px" line-height="40px" color="#fc0016"
           >Tranquilidad y seguridad vehicular al alcance de tus manos.</mj-text
         >

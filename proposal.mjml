@@ -1,5 +1,5 @@
 <mjml>
-  <mj-body background-color="#d7dde5">
+  <mj-body background-color="#fff">
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column width="40%" vertical-align="middle" background-color="green">
         <mj-image
@@ -16,8 +16,11 @@
           padding-bottom="0px"
           padding-top="0px"
         ></mj-image>
+        
       </mj-column>
+      
     </mj-section>
+    
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
       background-size="cover"
@@ -41,7 +44,12 @@
           >CONTRATA</mj-button
         >
       </mj-column>
+      
     </mj-section>
+    <mj-section>
+    <mj-column width="50%">
+    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" full-width="full-width" alt="" padding="0px" href="https://google.com" />
+    </mj-column></mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
