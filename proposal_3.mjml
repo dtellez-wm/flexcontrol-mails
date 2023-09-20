@@ -54,6 +54,26 @@
         >
       </mj-column>
     </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
+          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Desarrolando la industria.</mj-text
+        >
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_13.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
+          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
+        >
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_3.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
+          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />Diseños pensados en ti.</mj-text
+        >
+      </mj-column>
+    </mj-section>
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/0.png"
       vertical-align="middle"
