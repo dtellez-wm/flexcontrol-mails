@@ -107,6 +107,26 @@
         <mj-image src="http://nimus.de/share/tpl-card/bottom.png" alt="bottom border" align="center" border="none" padding="0px"></mj-image>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#fc0016" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px"
+          >Protege tu vehículo con solo $199 mensuales.</mj-text
+        >
+        <mj-divider
+          border-color="#fff"
+          border-style="solid"
+          border-width="1px"
+          padding-left="100px"
+          padding-right="100px"
+          padding-bottom="20px"
+          padding-top="20px"
+        ></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px"
+          >Nosotros entendemos lo valioso que es tu vehículo para ti. Por eso, te ofrecemos una solución avanzada para su protección desde
+          solo $199 mensuales (incluye IVA).</mj-text
+        >
+      </mj-column>
+    </mj-section>
     <mj-section padding="10px 0 20px 0">
       <mj-column>
         <mj-text align="center" color="#9B9B9B" font-size="11px"
