@@ -25,10 +25,24 @@
     </mj-style>
 
   </mj-head>
-  <mj-body background-color="#000" width="600px">
+  <mj-body background-color="#fff" width="600px">
+  <mj-section background-color="#fff">
+    <mj-column width="35%">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
+          alt="OnePage"
+          padding-bottom="0px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png" width="250px" alt="" padding="0" href="https://google.com" />
+        
+      </mj-column>
+    </mj-section>
     <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/Brochure_lojackatt_VF/3.png" background-size="contain" background-repeat="no-repeat" background-position="top" padding-bottom="0">
-      <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2043.png" alt="" align="center" width="150px" />
+      <mj-column width="100%" padding="50px">
+        
         <mj-text color="#fff" font-weight="bold" align="center" text-transform="uppercase" font-size="24px" letter-spacing="1px" padding-top="0px" >
           ¡Toma el control total de tu vehículo
           <br> con AT&T!
@@ -41,15 +55,13 @@
         
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1f2e78">
-      <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png" width="250px" alt="" padding="0" href="https://google.com" />
-        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" width="300px" alt="" padding="0" href="https://google.com" />
-      </mj-column>
-    </mj-section>
+    
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+    
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+      
         <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png" width="300px" alt="" padding="0" href="https://google.com" />
           <mj-text color="#212b35" font-weight="bold" font-size="25px">
             Presentando <br> AT&T Jack Recuperación Total:
           </mj-text>
