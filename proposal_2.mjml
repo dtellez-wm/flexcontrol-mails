@@ -201,9 +201,19 @@
       </mj-section>
       <mj-section padding-top="0">
         <mj-group>
-          <mj-column width="100%" padding-right="0">
+          <mj-column width="33%" padding-right="0">
             <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
-              <a class="footer-link" href="https://www.google.com">Privacy</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="https://www.google.com">Unsubscribe</a>
+              <a class="footer-link" href="https://www.google.com">Privacy</a>
+            </mj-text>
+          </mj-column>
+          <mj-column width="33%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a href="#" style="color: #9b9b9b; text-decoration: none">Appvant</a>
+            </mj-text>
+          </mj-column>
+          <mj-column width="33%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="https://www.google.com">Unsubscribe</a>
             </mj-text>
           </mj-column>
         </mj-group>
