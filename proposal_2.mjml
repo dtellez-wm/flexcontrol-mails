@@ -78,6 +78,7 @@
           <mj-text color="#637381" font-size="16px">
             ¿Por qué  AT&T Jack Recuperación?
           </mj-text>
+           
           <mj-text color="#637381" font-size="16px">
             <ul>
               <li style="padding-bottom: 20px"><strong>Innovación:</strong> Desarrolando la industria.</li>
@@ -93,15 +94,23 @@
           </mj-button>
           
           <mj-text color="#637381" font-size="16px" padding-top="30px">
-            ¡No esperes más! Protege tu vehículo con <a class="text-link" href="https://google.com">AT&T Jack Recuperación</a>Conoce más.
+            ¡No esperes más! Protege tu vehículo con <a class="text-link" href="https://google.com">AT&T Jack Recuperación</a> Conoce más.
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
             Líderes en rastreo y recuperación.
           </mj-text>
+          
           <mj-button background-color="#fc0016" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
             Centro de experiencia
           </mj-button>
         </mj-column>
+        <mj-column width="33%"> <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+           </mj-column>
+          <mj-column width="33%"> 
+          <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_13.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+           </mj-column>
+           <mj-column width="33%"> 
+          <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_3.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image> </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         <mj-column width="50%">

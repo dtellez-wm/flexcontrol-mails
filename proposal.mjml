@@ -125,7 +125,7 @@
           emergencia.</mj-text
         >
         <mj-button
-          align="left"
+          align="center"
           background-color="#fc0016"
           color="#fff"
           border-radius="24px"
