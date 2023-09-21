@@ -1,7 +1,7 @@
 <mjml>
   <mj-body background-color="#fff">
     <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="40%" vertical-align="middle" background-color="green">
+      <mj-column width="40%" vertical-align="middle" background-color="white">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
@@ -9,7 +9,7 @@
           padding-top="0px"
         ></mj-image>
       </mj-column>
-      <mj-column width="60%" vertical-align="middle" background-color="blue">
+      <mj-column width="60%" vertical-align="middle" background-color="white">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
           alt="Logo de distribuidor autorizado att"
@@ -87,11 +87,24 @@
         <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px"
           >Nosotros entendemos lo valioso que es tu vehículo para ti. Por eso, te ofrecemos una solución avanzada para su protección desde
           solo $199 mensuales (incluye IVA).</mj-text
+        ><mj-button
+          align="center"
+          background-color="white"
+          color="black"
+          border-radius="24px"
+          href="https://mjml.io"
+          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-bottom="0px"
+          padding-top="0px"
+          >CONTRATA</mj-button
         >
       </mj-column>
+      
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
+    
       <mj-column width="50%" vertical-align="middle">
+      
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
           alt=""
@@ -126,11 +139,14 @@
       </mj-column>
     </mj-section>
     <mj-section full-width="full-width">
-      <mj-column width="66.66666666666666%" vertical-align="middle">
-        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
       </mj-column>
-      <mj-column width="33.33333333333333%" vertical-align="middle">
-        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
+      </mj-column>
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"
           ><span style="font-size: 11px"
             ><a href="https://mjml.io" style="text-decoration: none; color: inherit">Unsubscribe</a></span
           ></mj-text
