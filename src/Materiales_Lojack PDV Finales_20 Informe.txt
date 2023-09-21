@@ -1,0 +1,76 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Materiales_Lojack PDV Finales_20.ai
+Modo de color: Color CMYK
+Perfil de color: ninguno
+Unidades de regla: metros
+Dimensiones de la mesa de trabajo: 0.75 m x 1.75 m
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+ATT Aleck Sans (OTF)
+Neo Sans Pro (OTF)
+Neo Sans Pro Medium (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/luisaislas/Descargas/pngegg(1).png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1601K, 878 por 467 p’xeles
+Dimensiones: 332.82 por 177.024 puntos 
+Resoluci—n: 189.941 por 189.941 p’xeles por pulgada
+
+
+/Usuarios/luisaislas/Descargas/pngegg(1).png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1601K, 878 por 467 p’xeles
+Dimensiones: 438.748 por 233.366 puntos 
+Resoluci—n: 144.083 por 144.083 p’xeles por pulgada
+
+
+/Usuarios/luisaislas/Descargas/pngegg(1).png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1601K, 878 por 467 p’xeles
+Dimensiones: 1477.202 por 785.71 puntos 
+Resoluci—n: 42.794 por 42.794 p’xeles por pulgada
+
+
+/Usuarios/luisaislas/Descargas/Diseno sin titulo-4.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 6075K, 1920 por 1080 p’xeles
+Dimensiones: 1810.41 por 1018.355 puntos 
+Resoluci—n: 76.358 por 76.358 p’xeles por pulgada
