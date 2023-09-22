@@ -4,7 +4,33 @@
     <mj-section full-width="full-width" >
     <mj-column width="50%" background-color="blue" >
     <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
-    </mj-column></mj-section>
+    </mj-column>
+    <mj-column width="50%" vertical-align="middle">
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
+          <span style="font-weight: bold; font-size: 14px; color: #45474e"
+            >¡Protege tu vehículo hoy mismo! Conoce más
+            <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
+              <span style="font-size: 12px">
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperación </a></span
+              ></mj-text
+            >.</span
+          ><br /><br />Accede a informes detallados para garantizar una gestión efectiva y recibe soporte las 24 horas en caso de
+          emergencia.</mj-text
+        >
+        <mj-button
+          align="center"
+          background-color="#fc0016"
+          color="#fff"
+          border-radius="24px"
+          font-size="11px"
+          href="https://mjml.io"
+          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-bottom="45px"
+          padding-top="10px"
+          >CONTRATA</mj-button
+        >
+      </mj-column>
+    </mj-section>
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
       background-size="cover"
@@ -94,31 +120,7 @@
           padding-top="20px"
         ></mj-image>
       </mj-column>
-      <mj-column width="50%" vertical-align="middle">
-        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
-          <span style="font-weight: bold; font-size: 14px; color: #45474e"
-            >¡Protege tu vehículo hoy mismo! Conoce más
-            <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
-              <span style="font-size: 12px">
-                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperación </a></span
-              ></mj-text
-            >.</span
-          ><br /><br />Accede a informes detallados para garantizar una gestión efectiva y recibe soporte las 24 horas en caso de
-          emergencia.</mj-text
-        >
-        <mj-button
-          align="center"
-          background-color="#fc0016"
-          color="#fff"
-          border-radius="24px"
-          font-size="11px"
-          href="https://mjml.io"
-          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-          padding-bottom="45px"
-          padding-top="10px"
-          >CONTRATA</mj-button
-        >
-      </mj-column>
+      
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column width="40%" vertical-align="middle" background-color="white">
