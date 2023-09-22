@@ -1,23 +1,6 @@
 <mjml>
   <mj-body background-color="#fff">
-    <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="40%" vertical-align="middle" background-color="white">
-        <mj-image
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
-          alt="Logo appvant"
-          padding-bottom="0px"
-          padding-top="0px"
-        ></mj-image>
-      </mj-column>
-      <mj-column width="60%" vertical-align="middle" background-color="white">
-        <mj-image
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
-          alt="Logo de distribuidor autorizado att"
-          padding-bottom="0px"
-          padding-top="0px"
-        ></mj-image>
-      </mj-column>
-    </mj-section>
+    
     
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
@@ -134,6 +117,24 @@
           padding-top="10px"
           >CONTRATA</mj-button
         >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="40%" vertical-align="middle" background-color="white">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
+          alt="Logo appvant"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle" background-color="white">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
+          alt="Logo de distribuidor autorizado att"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
       </mj-column>
     </mj-section>
     <mj-section full-width="full-width">
