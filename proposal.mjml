@@ -1,7 +1,10 @@
 <mjml>
   <mj-body background-color="#fff">
     
-    
+    <mj-section full-width="full-width" >
+    <mj-column width="50%" background-color="blue" >
+    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
+    </mj-column></mj-section>
     <mj-section
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
       background-size="cover"
@@ -28,9 +31,7 @@
       
     </mj-section>
     <mj-section>
-    <mj-column width="50%">
-    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
-    </mj-column></mj-section>
+    </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
