@@ -1,6 +1,23 @@
 <mjml>
   <mj-body background-color="#fff">
-    
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="40%" vertical-align="middle" background-color="white">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
+          alt="Logo appvant"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle" background-color="white">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
+          alt="Logo de distribuidor autorizado att"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Banner_LojackATT_Mesa%20de%20trabajo%201.png" background-size="cover">
     <mj-column width="50%" vertical-align="middle">
     <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
@@ -122,24 +139,6 @@
         ></mj-image>
       </mj-column>
       
-    </mj-section>
-    <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="40%" vertical-align="middle" background-color="white">
-        <mj-image
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
-          alt="Logo appvant"
-          padding-bottom="0px"
-          padding-top="0px"
-        ></mj-image>
-      </mj-column>
-      <mj-column width="60%" vertical-align="middle" background-color="white">
-        <mj-image
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
-          alt="Logo de distribuidor autorizado att"
-          padding-bottom="0px"
-          padding-top="0px"
-        ></mj-image>
-      </mj-column>
     </mj-section>
     <mj-section full-width="full-width">
       <mj-column width="33%" vertical-align="middle">
