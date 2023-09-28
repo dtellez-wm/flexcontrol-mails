@@ -1,0 +1,161 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column vertical-align="middle" background-color="red">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
+          alt="Logo appvant"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle" background-color="blue">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
+          alt="Logo de distribuidor autorizado att"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Banner_LojackATT_Mesa%20de%20trabajo%201.png" background-size="cover">
+    <mj-column width="50%" vertical-align="middle">
+    <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
+          <span style="font-weight: bold; font-size: 14px; color: #45474e"
+            >¡Protege tu vehículo hoy mismo! Conoce más
+            <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
+              <span style="font-size: 12px">
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperación </a></span
+              ></mj-text
+            >.</span
+          ><br /><br />Accede a informes detallados para garantizar una gestión efectiva y recibe soporte las 24 horas en caso de
+          emergencia.</mj-text
+        >
+        <mj-button
+          align="center"
+          background-color="#fc0016"
+          color="#fff"
+          border-radius="24px"
+          font-size="11px"
+          href="https://mjml.io"
+          font-family="Ubuntu, Helvetica, Arial, Helvetica, Arial, sans-serif"
+          padding-bottom="45px"
+          padding-top="10px"
+          >CONTRATA</mj-button
+        >
+      </mj-column>
+    <mj-column width="50%" background-color="blue" >
+    </mj-column>
+    
+    </mj-section>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
+      background-size="cover"
+      full-width="full-width"
+      background-repeat="no-repeat"
+    >
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="14px" color="#fff" padding-bottom="10px" padding-top="45px"
+          ><span style="font-size: 30px; line-height: 30px">Protege tu vehículo.</span><br /><br />
+          Simple. Potente. <span style="color: #fc0016">AT&T Jack Recuperación.</span> Efectivo.</mj-text
+        >
+        <mj-button
+          align="center"
+          background-color="#fc0016"
+          color="#fff"
+          border-radius="24px"
+          href="https://mjml.io"
+          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-bottom="45px"
+          padding-top="10px"
+          >CONTRATA</mj-button
+        >
+      </mj-column>
+      
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
+          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Desarrolando la industria.</mj-text
+        >
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_13.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
+          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
+        >
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_3.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
+          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />Diseños pensados en ti.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fc0016" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px"
+          >Protege tu vehículo con solo $199 mensuales.</mj-text
+        >
+        <mj-divider
+          border-color="#fff"
+          border-style="solid"
+          border-width="1px"
+          padding-left="100px"
+          padding-right="100px"
+          padding-bottom="20px"
+          padding-top="20px"
+        ></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px"
+          >Nosotros entendemos lo valioso que es tu vehículo para ti. Por eso, te ofrecemos una solución avanzada para su protección desde
+          solo $199 mensuales (incluye IVA).</mj-text
+        ><mj-button
+          align="center"
+          background-color="white"
+          color="black"
+          border-radius="24px"
+          href="https://mjml.io"
+          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+          padding-bottom="0px"
+          padding-top="0px"
+          >CONTRATA</mj-button
+        >
+      </mj-column>
+      
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+    
+      <mj-column width="50%" vertical-align="middle">
+      
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
+          alt=""
+          padding-bottom="20px"
+          padding-top="20px"
+        ></mj-image>
+      </mj-column>
+      
+    </mj-section>
+    <mj-section full-width="full-width">
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
+      </mj-column>
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 12px">
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">Appvant</a></span
+              ></mj-text>
+      </mj-column>
+      <mj-column width="33%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"
+          ><span style="font-size: 11px"
+            ><a href="https://mjml.io" style="text-decoration: none; color: inherit">Unsubscribe</a></span
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
