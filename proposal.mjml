@@ -1,7 +1,7 @@
 <mjml>
   <mj-body background-color="#fff">
     <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="40%" vertical-align="middle" background-color="white">
+      <mj-column vertical-align="middle" background-color="red">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
@@ -9,7 +9,7 @@
           padding-top="0px"
         ></mj-image>
       </mj-column>
-      <mj-column width="60%" vertical-align="middle" background-color="white">
+      <mj-column vertical-align="middle" background-color="blue">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
           alt="Logo de distribuidor autorizado att"
