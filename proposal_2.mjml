@@ -144,10 +144,14 @@
       <mj-column width="33%" vertical-align="middle">
         <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
       </mj-column>
-      <mj-column width="33%" vertical-align="middle">
-        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 12px">
-                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">Appvant</a></span
-              ></mj-text>
+      
+      <mj-column vertical-align="middle" width="150px">
+        <mj-image
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
+          alt="Logo appvant"
+          padding-bottom="0px"
+          padding-top="0px"
+        ></mj-image>
       </mj-column>
       <mj-column width="33%" vertical-align="middle">
         <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"
