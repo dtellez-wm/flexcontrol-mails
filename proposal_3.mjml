@@ -18,19 +18,18 @@
         ></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section full-width="full-width" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Banner_LojackATT_Mesa%20de%20trabajo%201.png" background-size="cover">
+    <mj-section full-width="full-width" background-url="https://github.com/dtellez-wm/flexcontrol-mails/blob/main/src/Banner_Mail/Banner_LojackATT-04.png?raw=true" background-size="cover">
     <mj-column width="50%" vertical-align="middle">
     <mj-image src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/LojackbyATT_Banner%201.png"  alt="lojack by att" padding="0px" href="https://google.com" />
         <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
           <span style="font-weight: bold; font-size: 14px; color: #45474e"
-            >¡Protege tu vehículo hoy mismo! Conoce más
+            >¿Listo para llevar la protección vehicular al siguiente nivel?
             <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
-              <span style="font-size: 12px">
+              <span style="font-size: 14px">
                 <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperación </a></span
               ></mj-text
             >.</span
-          ><br /><br />Accede a informes detallados para garantizar una gestión efectiva y recibe soporte las 24 horas en caso de
-          emergencia.</mj-text
+          ><br /><br />Accede a informes detallados, recibe notificaciones en tiempo real y asegura tu vehículo con herramientas avanzadas de rastreo.</mj-text
         >
         <mj-button
           align="center"
@@ -50,15 +49,15 @@
     
     </mj-section>
     <mj-section
-      background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/1.png"
+      background-url="https://github.com/dtellez-wm/flexcontrol-mails/blob/main/src/Material_LJ/PC_LJ_29_08_23/3.png?raw=true"
       background-size="cover"
       full-width="full-width"
       background-repeat="no-repeat"
     >
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" font-size="14px" color="#fff" padding-bottom="10px" padding-top="45px"
-          ><span style="font-size: 30px; line-height: 30px">Protege tu vehículo.</span><br /><br />
-          Simple. Potente. <span style="color: #fc0016">AT&T Jack Recuperación.</span> Efectivo.</mj-text
+          ><span style="font-size: 30px; line-height: 30px">¡Descubre la revolución en seguridad vehicular!</span><br /><br />
+          Imagina tener control y monitoreo integral de tus vehículos en la palma de tu mano.</mj-text
         >
         <mj-button
           align="center"
@@ -80,19 +79,19 @@
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Desarrolando la industria.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Protege tu vehículo con nuestra solución.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_13.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br /> ¡Explora más y eleva tu seguridad vehicular!</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_3.png?fit=76%2C76&ssl=1" alt="" width="50px"></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />Diseños pensados en ti.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />¿Listo para el futuro de la protección vehicular?</mj-text
         >
       </mj-column>
     </mj-section>
@@ -110,9 +109,8 @@
           padding-bottom="20px"
           padding-top="20px"
         ></mj-divider>
-        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px"
-          >Nosotros entendemos lo valioso que es tu vehículo para ti. Por eso, te ofrecemos una solución avanzada para su protección desde
-          solo $199 mensuales (incluye IVA).</mj-text
+        <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px"
+          >Con nuestra plataforma avanzada, puedes delimitar zonas específicas, recibir notificaciones personalizadas y garantizar una gestión efectiva. Además, en situaciones de emergencia, nuestro equipo está disponible las 24 horas para asistirte.</mj-text
         ><mj-button
           align="center"
           background-color="white"
@@ -147,6 +145,7 @@
       
       <mj-column vertical-align="middle" width="150px">
         <mj-image
+          href="https://www.appvant.mx/"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
           padding-bottom="0px"

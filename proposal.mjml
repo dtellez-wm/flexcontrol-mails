@@ -147,6 +147,7 @@
       
       <mj-column vertical-align="middle" width="150px">
         <mj-image
+        href="https://www.appvant.mx/"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
           padding-bottom="0px"
