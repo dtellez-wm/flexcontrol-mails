@@ -98,7 +98,7 @@
     <mj-section background-color="#fc0016" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px"
-          >Protege tu vehículo con solo $199 mensuales.</mj-text
+          >¿Listo para el futuro de la protección vehicular?</mj-text
         >
         <mj-divider
           border-color="#fff"
@@ -127,7 +127,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
     
-      <mj-column width="50%" vertical-align="middle">
+      <mj-column vertical-align="middle">
       
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
