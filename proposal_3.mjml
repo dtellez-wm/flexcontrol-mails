@@ -67,31 +67,6 @@
       </mj-column>
       <mj-column width="50%" background-color="blue"> </mj-column>
     </mj-section>
-    <mj-section
-      background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/33.png"
-      background-size="cover"
-      full-width="full-width"
-      background-repeat="no-repeat"
-    >
-      <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" font-size="14px" color="#F6F6F6" padding-bottom="10px" padding-top="45px"
-          ><span style="font-size: 30px; line-height: 30px">¡Descubre la revolución en seguridad vehicular!</span><br /><br />
-          Imagina tener control y monitoreo integral de tus vehículos en la palma de tu mano.</mj-text
-        >
-        <mj-button
-          align="center"
-          background-color="#fc0016"
-          color="#F6F6F6"
-          border-radius="24px"
-          href="https://mjml.io"
-          font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-          padding-bottom="45px"
-          padding-top="10px"
-          >CONTRATA</mj-button
-        >
-      </mj-column>
-    </mj-section>
-    <mj-section> </mj-section>
     <mj-section background-color="#F6F6F6" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image
