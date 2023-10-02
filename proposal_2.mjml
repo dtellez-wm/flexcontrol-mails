@@ -1,14 +1,10 @@
 <mjml>
-<mj-head>
-  <mj-style inline="inline">
-    @media (prefers-color-scheme: dark) {
-      body, mj-body, mj-section, mj-column, mj-text, mj-button {
-        background-color: #FFFFFF !important;
-        color: #000000 !important;
-      }
-    }
-  </mj-style>
-</mj-head>
+  <mj-head>
+    <mj-style inline="inline">
+      @media (prefers-color-scheme: dark) { body, mj-body, mj-section, mj-column, mj-text, mj-button { background-color: #FFFFFF !important;
+      color: #000000 !important; } }
+    </mj-style>
+  </mj-head>
 
   <mj-body background-color="#F6F6F6">
     <mj-section background-color="#F6F6F6" full-width="full-width">
@@ -43,14 +39,14 @@
         />
         <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
           <span style="font-weight: bold; font-size: 18px; color: #45474e"
-            >oma el control total de tu veh韈ulo con
+            >隆Toma el control total de tu veh铆culo con
             <mj-text align="right" font-size="18px" padding-bottom="0px" padding-top="0">
               <span style="font-size: 18px">
-                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperaci髇 </a></span
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperaci贸n </a></span
               ></mj-text
             >.</span
-          ><br /><br />縌uieres rastrear tu veh韈ulo en todo momento? Con nuestra tecnolog韆, accede a la informaci髇 desde cualquier lugar.
-          Delimita zonas para controlarlos, recibe notificaciones y recup閞alos en caso de robo con soporte 24/7.</mj-text
+          ><br /><br />驴Quieres rastrear tu veh铆culo en todo momento? Con nuestra tecnolog铆a, accede a la informaci贸n desde cualquier lugar.
+          Delimita zonas para controlarlos, recibe notificaciones y recup茅ralos en caso de robo con soporte 24/7.</mj-text
         >
         <mj-button
           align="center"
@@ -75,7 +71,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">Gesti髇 Total</span><br /><br />Protege tu veh韈ulo con nuestra soluci髇 avanzada
+          ><span style="font-size: 14px; color: #fc0016">Gesti贸n Total</span><br /><br />Protege tu veh铆culo con nuestra soluci贸n avanzada
           desde $199 al mes (IVA incluido).</mj-text
         >
       </mj-column>
@@ -86,7 +82,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">M醲ima Seguridad</span><br /><br />Accede a informes detallados para una gesti髇
+          ><span style="font-size: 14px; color: #fc0016">M谩xima Seguridad</span><br /><br />Accede a informes detallados para una gesti贸n
           efectiva y recibe soporte las 24 horas en caso de emergencia.</mj-text
         >
       </mj-column>
@@ -97,7 +93,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #fc0016">Innovaci髇 Continua</span><br /><br />Tranquilidad y seguridad vehicular al alcance
+          ><span style="font-size: 14px; color: #fc0016">Innovaci贸n Continua</span><br /><br />Tranquilidad y seguridad vehicular al alcance
           de tus manos</mj-text
         >
       </mj-column>
@@ -117,8 +113,8 @@
           padding-top="20px"
         ></mj-divider>
         <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px" letter-spacing="1px"
-          >Tu seguridad y la de tu veh韈ulo son nuestra prioridad. Presentamos una soluci髇 innovadora que combina la experiencia de Lo/Jack
-          con la infraestructura tecnol骻ica de AT&T, brind醤dote control total sobre tus veh韈ulos: gesti髇, localizaci髇 y
+          >Tu seguridad y la de tu veh铆culo son nuestra prioridad. Presentamos una soluci贸n innovadora que combina la experiencia de Lo/Jack
+          con la infraestructura tecnol贸gica de AT&T, brind谩ndote control total sobre tus veh铆culos: gesti贸n, localizaci贸n y
           asistencia.</mj-text
         ><mj-button
           align="center"

@@ -1,14 +1,10 @@
 <mjml>
-<mj-head>
-  <mj-style inline="inline">
-    @media (prefers-color-scheme: dark) {
-      body, mj-body, mj-section, mj-column, mj-text, mj-button {
-        background-color: #FFFFFF !important;
-        color: #000000 !important;
-      }
-    }
-  </mj-style>
-</mj-head>
+  <mj-head>
+    <mj-style inline="inline">
+      @media (prefers-color-scheme: dark) { body, mj-body, mj-section, mj-column, mj-text, mj-button { background-color: #FFFFFF !important;
+      color: #000000 !important; } }
+    </mj-style>
+  </mj-head>
 
   <mj-body background-color="#F6F6F6">
     <mj-section background-color="#F6F6F6" full-width="full-width">
@@ -43,13 +39,13 @@
         />
         <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
           <span style="font-weight: bold; font-size: 14px; color: #45474e"
-            >¿Listo para llevar la protección vehicular al siguiente nivel?
+            >Â¿Listo para llevar la protecciÃ³n vehicular al siguiente nivel?
             <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
               <span style="font-size: 14px">
-                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperación </a></span
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack RecuperaciÃ³n </a></span
               ></mj-text
             >.</span
-          ><br /><br />Accede a informes detallados, recibe notificaciones en tiempo real y asegura tu vehículo con herramientas avanzadas
+          ><br /><br />Accede a informes detallados, recibe notificaciones en tiempo real y asegura tu vehÃ­culo con herramientas avanzadas
           de rastreo.</mj-text
         >
         <mj-button
@@ -75,7 +71,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">Gestión Total</span><br /><br />Protege tu vehículo con nuestra solución.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">GestiÃ³n Total</span><br /><br />Protege tu vehÃ­culo con nuestra soluciÃ³n.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
@@ -85,8 +81,8 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">Máxima Seguridad</span><br /><br />
-          ¡Explora más y eleva tu seguridad vehicular!</mj-text
+          ><span style="font-size: 14px; color: #fc0016">MÃ¡xima Seguridad</span><br /><br />
+          Â¡Explora mÃ¡s y eleva tu seguridad vehicular!</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
@@ -96,7 +92,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #fc0016">Innovación Continua</span><br /><br />¿Listo para el futuro de la protección
+          ><span style="font-size: 14px; color: #fc0016">InnovaciÃ³n Continua</span><br /><br />Â¿Listo para el futuro de la protecciÃ³n
           vehicular?</mj-text
         >
       </mj-column>
@@ -104,7 +100,7 @@
     <mj-section background-color="#fc0016" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#F6F6F6" font-size="18px" padding-bottom="10px"
-          >¿Listo para el futuro de la protección vehicular?</mj-text
+          >Â¿Listo para el futuro de la protecciÃ³n vehicular?</mj-text
         >
         <mj-divider
           border-color="#F6F6F6"
@@ -116,8 +112,8 @@
           padding-top="20px"
         ></mj-divider>
         <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px"
-          >Con nuestra plataforma avanzada, puedes delimitar zonas específicas, recibir notificaciones personalizadas y garantizar una
-          gestión efectiva. Además, en situaciones de emergencia, nuestro equipo está disponible las 24 horas para asistirte.</mj-text
+          >Con nuestra plataforma avanzada, puedes delimitar zonas especÃ­ficas, recibir notificaciones personalizadas y garantizar una
+          gestiÃ³n efectiva. AdemÃ¡s, en situaciones de emergencia, nuestro equipo estÃ¡ disponible las 24 horas para asistirte.</mj-text
         ><mj-button
           align="center"
           background-color="white"

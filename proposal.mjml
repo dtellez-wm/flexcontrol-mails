@@ -1,22 +1,27 @@
 <mjml>
   <mj-head>
     <mj-style inline="inline">
-      @media (prefers-color-scheme: dark) { body, mj-body, mj-section, mj-column, mj-text, mj-button { background-color: #FFFFFF !important;
+    .no-stack-on-mobile { 
+        flex-basis: 50% !important;
+        background-color: green !important; 
+      },
+      @media (prefers-color-scheme: dark) { body, mj-body, mj-section, mj-column, mj-text, mj-button { background-color: #F6F6F6 !important;
       color: #000000 !important; } }
+      
     </mj-style>
   </mj-head>
   <mj-body background-color="#F6F6F6">
     <mj-section background-color="#F6F6F6" full-width="full-width">
-      <mj-column vertical-align="middle">
-        <mj-image
+      <mj-column vertical-align="middle" mj-class="no-stack-on-mobile" >
+        <mj-image width="100px"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
           padding-bottom="0px"
           padding-top="0px"
         ></mj-image>
       </mj-column>
-      <mj-column vertical-align="middle">
-        <mj-image
+      <mj-column vertical-align="middle" mj-class="no-stack-on-mobile" >
+        <mj-image width="100px"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
           alt="Logo de distribuidor autorizado att"
           padding-bottom="0px"
