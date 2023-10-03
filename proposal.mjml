@@ -1,38 +1,20 @@
 <mjml>
   <mj-head>
-  <mj-raw>
-      <meta charset="UTF-8">
+    <mj-raw>
+      <meta charset="UTF-8" />
     </mj-raw>
     <mj-style inline="inline">
-      .no-stack-on-mobile { color: green !important; flex-basis: 50% !important; width: 5px !important; } @media only screen and (max-width:480px) {
-      .no-stack-on-mobile { flex-basis: calc(50% - 20px) !important; } }
+      .no-stack-on-mobile { color: green !important; flex-basis: 50% !important; width: 5px !important; } @media only screen and
+      (max-width:480px) { .no-stack-on-mobile { flex-basis: calc(50% - 20px) !important; } }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#F6F6F6">
-    <mj-section background-color="#F6F6F6" full-width="full-width">
-      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
-        <mj-image
-          width="100px"
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
-          alt="Logo appvant"
-          padding-bottom="10px"
-          padding-top="10px"
-        ></mj-image>
-      </mj-column>
-      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
-        <mj-image
-          width="100px"
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
-          alt="Logo de distribuidor autorizado att"
-          padding-bottom="10px"
-          padding-top="10px"
-        ></mj-image>
-      </mj-column>
-    </mj-section>
+  <mj-body background-color="#FFFCFC">
     <mj-section
       full-width="full-width"
       background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Banner_LojackATT_Mesa%20de%20trabajo%201.png"
-      background-size="cover"
+      background-size="contain"
+      background-repeat="no-repeat"
+      background-position="right"
     >
       <mj-column width="50%" vertical-align="middle">
         <mj-image
@@ -41,15 +23,15 @@
           padding="0px"
           href="https://google.com"
         />
-        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px" mj-class="no-stack-on-mobile" >
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px" mj-class="no-stack-on-mobile">
           <span style="font-weight: bold; font-size: 14px; color: #45474e"
-            >¡Protege tu veh&iacute;culo hoy mismo! Conoce m&aacute;s
+            >Â¡Protege tu veh&iacute;culo hoy mismo! Conoce m&aacute;s
             <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
               <span style="font-size: 12px">
                 <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperaci&oacute;n </a></span
               ></mj-text
             >.</span
-          ><br /><br />Accede a informes detallados para garantizar una gestiÃ³n efectiva y recibe soporte las 24 horas en caso de
+          ><br /><br />Accede a informes detallados para garantizar una gestiÃƒÂ³n efectiva y recibe soporte las 24 horas en caso de
           emergencia.</mj-text
         >
         <mj-button
@@ -90,7 +72,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">MÃ¡xima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">MÃƒÂ¡xima Seguridad</span><br /><br />Comprometidos con nuestra.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
@@ -100,14 +82,14 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #fc0016">Innovaci&oacute;n Continua</span><br /><br />DiseÃ±os pensados en ti.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Innovaci&oacute;n Continua</span><br /><br />DiseÃƒÂ±os pensados en ti.</mj-text
         >
       </mj-column>
     </mj-section>
     <mj-section background-color="#fc0016" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#F6F6F6" font-size="18px" padding-bottom="10px"
-          >Protege tu vehÃ­culo con solo $199 mensuales.</mj-text
+          >Protege tu vehÃƒÂ­culo con solo $199 mensuales.</mj-text
         >
         <mj-divider
           border-color="#F6F6F6"
@@ -119,8 +101,8 @@
           padding-top="20px"
         ></mj-divider>
         <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px"
-          >Nosotros entendemos lo valioso que es tu vehÃ­culo para ti. Por eso, te ofrecemos una soluciÃ³n avanzada para su protecciÃ³n
-          desde solo $199 mensuales (incluye IVA).</mj-text
+          >Nosotros entendemos lo valioso que es tu vehÃƒÂ­culo para ti. Por eso, te ofrecemos una soluciÃƒÂ³n avanzada para su
+          protecciÃƒÂ³n desde solo $199 mensuales (incluye IVA).</mj-text
         ><mj-button
           align="center"
           background-color="white"
@@ -134,18 +116,30 @@
         >
       </mj-column>
     </mj-section>
-    <mj-section
-      background-color="#F6F6F6"
-      background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Background.png"
-      full-width="full-width"
-    >
-      <mj-column width="50%" vertical-align="middle">
+
+    <mj-section background-color="#3F5069" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
         <mj-image
-          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
-          alt=""
-          padding-bottom="20px"
-          padding-top="20px"
+          width="100px"
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2043.png"
+          alt="Logo appvant"
+          padding-bottom="10px"
+          padding-top="10px"
         ></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
+        <mj-image
+          width="100px"
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
+          alt="Logo de distribuidor autorizado att"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#3F5069">
+      <mj-column>
+        <mj-text color="#F6F6F6" align="center" font-size="20px" font-weight="semi-bold"> Pregunta por más soluciones </mj-text>
       </mj-column>
     </mj-section>
     <mj-section
@@ -171,6 +165,20 @@
             ><a href="https://mjml.io" style="text-decoration: none; color: inherit">Unsubscribe</a></span
           ></mj-text
         >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#6E727C" font-size="16px" font-weight="semi-bold"> ww.appvant.mx </mj-text>
+        <mj-divider />
+        <mj-text color="#6A6767" font-size="10px">
+          © 2023 AT&T Intellectual Property Ii, LP. AT&T y ef logotipo del Globo son marcas registradas a nombre de AT&T Intellectual
+          Property Il, LP. y/o sus compafiias afiliadas, Todas las demas marcas son propiedad de sus respectivos duefios.
+          <br /><br />
+          El uso de las marca registrada LOJACK bajo las cuales se comercialicen los Productos Car Mart y/o Lojack, se usara con el Unico y
+          exctusivo objetode promocionar la venta y distribucién de dichos productos y en los términos y bajo las modalidades que se
+          sefialen en el contrato respective, no podra ser utilizada para otro fin distinto al previamente establecido mediante contrato.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
