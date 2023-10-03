@@ -11,7 +11,7 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#F6F6F6">
-    <mj-section background-color="#F6F6F6" full-width="full-width">
+    <mj-section background-color="#F6F6F6" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Background.png" full-width="full-width">
       <mj-column vertical-align="middle" mj-class="no-stack-on-mobile" >
         <mj-image width="100px"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
@@ -68,8 +68,8 @@
       <mj-column width="50%" background-color="blue"> </mj-column>
     </mj-section>
     
-    <mj-section> </mj-section>
-    <mj-section background-color="#F6F6F6" full-width="full-width">
+    
+    <mj-section background-color="#F6F6F6" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Background.png" full-width="full-width">
       <mj-column vertical-align="top" width="33.33333333333333%">
         <mj-image
           src="https://i0.wp.com/lojack.com.mx/wp-content/uploads/2021/09/ico_8.png?fit=76%2C76&ssl=1"
@@ -131,7 +131,7 @@
         >
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F6F6F6" full-width="full-width">
+    <mj-section background-color="#F6F6F6" background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Background.png" full-width="full-width">
       <mj-column width="50%" vertical-align="middle">
         <mj-image
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Material_LJ/PC_LJ_29_08_23/9.png"
@@ -141,7 +141,7 @@
         ></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section full-width="full-width">
+    <mj-section background-url="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Banner_Mail/Background.png" full-width="full-width">
       <mj-column width="33%" vertical-align="middle">
         <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
       </mj-column>
