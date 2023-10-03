@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-style inline="inline">
-      .no-stack-on-mobile { flex-basis: 50% !important; background-color: green !important; } @media only screen and (max-width:720px) {
+      .no-stack-on-mobile { color: green !important; flex-basis: 50% !important; width: 5px !important; } @media only screen and (max-width:480px) {
       .no-stack-on-mobile { flex-basis: calc(50% - 20px) !important; } }
     </mj-style>
   </mj-head>
@@ -12,8 +12,8 @@
           width="100px"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2038.png"
           alt="Logo appvant"
-          padding-bottom="0px"
-          padding-top="0px"
+          padding-bottom="10px"
+          padding-top="10px"
         ></mj-image>
       </mj-column>
       <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
@@ -21,8 +21,8 @@
           width="100px"
           src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
           alt="Logo de distribuidor autorizado att"
-          padding-bottom="0px"
-          padding-top="0px"
+          padding-bottom="10px"
+          padding-top="10px"
         ></mj-image>
       </mj-column>
     </mj-section>
@@ -38,12 +38,12 @@
           padding="0px"
           href="https://google.com"
         />
-        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px">
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px" mj-class="no-stack-on-mobile" >
           <span style="font-weight: bold; font-size: 14px; color: #45474e"
-            >Â¡Protege tu vehÃ­culo hoy mismo! Conoce mÃ¡s
+            >¡Protege tu veh&iacute;culo hoy mismo! Conoce m&aacute;s
             <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0">
               <span style="font-size: 12px">
-                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack RecuperaciÃ³n </a></span
+                <a href="https://mjml.io" style="text-decoration: none; color: #fc0016">AT&T Jack Recuperaci&oacute;n </a></span
               ></mj-text
             >.</span
           ><br /><br />Accede a informes detallados para garantizar una gestiÃ³n efectiva y recibe soporte las 24 horas en caso de
@@ -77,7 +77,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"
-          ><span style="font-size: 14px; color: #fc0016">GestiÃ³n Total</span><br /><br />Desarrolando la industria.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Gesti&oacute;n Total</span><br /><br />Desarrolando la industria.</mj-text
         >
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
@@ -97,7 +97,7 @@
           width="50px"
         ></mj-image>
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"
-          ><span style="font-size: 14px; color: #fc0016">InnovaciÃ³n Continua</span><br /><br />DiseÃ±os pensados en ti.</mj-text
+          ><span style="font-size: 14px; color: #fc0016">Innovaci&oacute;n Continua</span><br /><br />DiseÃ±os pensados en ti.</mj-text
         >
       </mj-column>
     </mj-section>
