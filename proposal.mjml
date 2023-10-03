@@ -1,5 +1,8 @@
 <mjml>
   <mj-head>
+  <mj-raw>
+      <meta charset="UTF-8">
+    </mj-raw>
     <mj-style inline="inline">
       .no-stack-on-mobile { color: green !important; flex-basis: 50% !important; width: 5px !important; } @media only screen and (max-width:480px) {
       .no-stack-on-mobile { flex-basis: calc(50% - 20px) !important; } }
