@@ -89,7 +89,7 @@
     <mj-section background-color="#fc0016" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#F6F6F6" font-size="18px" padding-bottom="10px"
-          >Protege tu vehÃƒÂ­culo con solo $199 mensuales.</mj-text
+          >Protege tu vehíulo con solo $199 mensuales.</mj-text
         >
         <mj-divider
           border-color="#F6F6F6"
@@ -116,7 +116,32 @@
         >
       </mj-column>
     </mj-section>
-
+    <mj-section full-width="full-width" background-color="#030000">
+      <mj-column>
+        <mj-text color="#F6F6F6" align="center" font-size="20px" font-weight="semi-bold"> Nuestros productos
+ </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#030000" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
+        <mj-image
+          width="100px"
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Appvant/Frame%2043.png"
+          alt="Logo appvant"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
+        <mj-image
+          width="100px"
+          src="https://raw.githubusercontent.com/dtellez-wm/flexcontrol-mails/main/src/Distribuidor%20Autorizado/DIstribuidorAutorizado_Mesa%20de%20trabajo%201-05.png"
+          alt="Logo de distribuidor autorizado att"
+          padding-bottom="10px"
+          padding-top="10px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#3F5069" full-width="full-width">
       <mj-column width="50%" vertical-align="middle" mj-class="no-stack-on-mobile">
         <mj-image
@@ -147,7 +172,7 @@
       full-width="full-width"
     >
       <mj-column width="33%" vertical-align="middle">
-        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Privacy</span></mj-text>
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px" color="#3F5069" >Aviso de Privacidad</span></mj-text>
       </mj-column>
 
       <mj-column vertical-align="middle" width="150px">
@@ -162,7 +187,7 @@
       <mj-column width="33%" vertical-align="middle">
         <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"
           ><span style="font-size: 11px"
-            ><a href="https://mjml.io" style="text-decoration: none; color: inherit">Unsubscribe</a></span
+            ><a href="https://mjml.io" style="text-decoration: none; color: #3F5069">Cancelar tu suscripción</a></span
           ></mj-text
         >
       </mj-column>
