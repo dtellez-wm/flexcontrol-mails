@@ -10,13 +10,13 @@ Asegúrate de tener Node.js y npm (Node Package Manager) instalados en tu sistema
 
 1. Clona este repositorio en tu local:
 
-```bash
+```**bash**
 git clone https://github.com/TU_USUARIO/flexcontrol-mails.git
 Navega al directorio del proyecto: cd flexcontrol-mails
 ****
 
 Instala las dependencias del proyecto:
-npm install o npm i
+npm install o npm **i**
 
 Uso
 Para convertir un archivo MJML a HTML, ejecuta el siguiente comando en tu terminal:
